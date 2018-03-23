@@ -1,6 +1,6 @@
 # Site DBusiness
 
-Site criado para o estudio de fotografia Dbusiness.
+Site criado para a empresa Dbusiness.
 
 
 ### Pré-requisitos
